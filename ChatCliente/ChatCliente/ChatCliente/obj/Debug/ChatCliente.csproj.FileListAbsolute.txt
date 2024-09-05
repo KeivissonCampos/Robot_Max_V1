@@ -1,0 +1,10 @@
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\bin\Debug\ChatCliente.exe.config
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\bin\Debug\ChatCliente.exe
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\bin\Debug\ChatCliente.pdb
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.csproj.AssemblyReference.cache
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.Form1.resources
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.Properties.Resources.resources
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.csproj.GenerateResource.cache
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.csproj.CoreCompileInputs.cache
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.exe
+C:\Users\keivisson21\Desktop\ROBO\ChatCliente\ChatCliente\ChatCliente\obj\Debug\ChatCliente.pdb

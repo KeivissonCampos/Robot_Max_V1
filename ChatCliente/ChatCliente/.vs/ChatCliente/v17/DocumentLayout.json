@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keivisson21\\Desktop\\ROBO\\ChatCliente\\ChatCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E770C6-6592-411A-8FF2-9DEBB5A0D0CB}|ChatCliente\\ChatCliente.csproj|c:\\users\\keivisson21\\desktop\\robo\\chatcliente\\chatcliente\\chatcliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19E770C6-6592-411A-8FF2-9DEBB5A0D0CB}|ChatCliente\\ChatCliente.csproj|solutionrelative:chatcliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\keivisson21\\Desktop\\ROBO\\ChatCliente\\ChatCliente\\ChatCliente\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatCliente\\Form1.cs",
+              "ToolTip": "C:\\Users\\keivisson21\\Desktop\\ROBO\\ChatCliente\\ChatCliente\\ChatCliente\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatCliente\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:36:51.469Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
