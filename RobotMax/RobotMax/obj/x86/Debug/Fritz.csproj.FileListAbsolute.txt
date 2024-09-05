@@ -1,0 +1,231 @@
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\Fritz.exe.config
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\Fritz.exe
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\Fritz.pdb
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\ArcControl.dll
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\SharpDX.dll
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\ArcControl.pdb
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\SharpDX.xml
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.exe
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.pdb
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.Calibration.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.Form1.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.Recorder.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.Simulator.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.AboutBox.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.JoystickConfiguration.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\SharpDX.DirectInput.dll
+C:\www\Fritz\Desktop\Fritz\Fritz\bin\Debug\SharpDX.DirectInput.xml
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.Face_Detect_and_Greet.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\www\Fritz\Desktop\Fritz\Fritz\obj\x86\Debug\Fritz.DistanceTrigger.resources
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\Fritz.exe.config
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.exe
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.pdb
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\Fritz.exe
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\Fritz.pdb
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\ArcControl.dll
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\ArcControl.pdb
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\SharpDX.xml
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\SharpDX.DirectInput.xml
+C:\www\Fritz\Code\Desktop\Fritz\bin\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.AboutBox.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.DistanceTrigger.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.Calibration.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.Face_Detect_and_Greet.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.Form1.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.JoystickConfiguration.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.Recorder.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.Simulator.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\www\Fritz\Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\bin\Debug\Fritz.exe.config
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.exe
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.pdb
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\bin\Debug\Fritz.exe
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\bin\Debug\Fritz.pdb
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\bin\Debug\ArcControl.dll
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\bin\Debug\ArcControl.pdb
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\bin\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.AboutBox.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.DistanceTrigger.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Calibration.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Face_Detect_and_Greet.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Form1.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.JoystickConfiguration.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Recorder.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Simulator.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Random_Messages.resources
+C:\www\Fritz\Code\Fritz\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.WaitForRoboRealmDlg.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\bin\Debug\Fritz.exe.config
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.exe
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.pdb
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\bin\Debug\Fritz.exe
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\bin\Debug\Fritz.pdb
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\bin\Debug\ArcControl.dll
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\bin\Debug\ArcControl.pdb
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\bin\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.AboutBox.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Random_Messages.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.DistanceTrigger.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Calibration.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Face_Detect_And_Greet.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Form1.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.JoystickConfiguration.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Recorder.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Simulator.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.WaitForRoboRealmDlg.resources
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\www\Fritz\Open Source\Source Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\bin\Debug\Fritz.exe.config
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.exe
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.pdb
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\bin\Debug\Fritz.exe
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\bin\Debug\Fritz.pdb
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\bin\Debug\ArcControl.dll
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\bin\Debug\ArcControl.pdb
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\bin\Debug\Interop.SpeechLib.dll
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.AboutBox.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Random_Messages.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.DistanceTrigger.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Calibration.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Face_Detect_And_Greet.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Form1.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.JoystickConfiguration.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Recorder.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.Simulator.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\Fritz.WaitForRoboRealmDlg.resources
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\www\Fritz\Open_Source_Files\Source Code\Desktop\Fritz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Fritz.exe.config
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Fritz.exe
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Fritz.pdb
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\ArcControl.dll
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\ArcControl.pdb
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\ArcControl.dll.config
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Interop.SpeechLib.dll
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.csproj.AssemblyReference.cache
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Random_Messages.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Calibration.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Form1.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Recorder.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Simulator.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.WaitForRoboRealmDlg.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.csproj.GenerateResource.cache
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.csproj.CoreCompileInputs.cache
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.exe
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.pdb
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.ChatServer.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.ChatGPT.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.voiceRecognition.resources
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.csproj.Up2Date
+C:\Users\keivisson21\Desktop\Analise Código\Fritz\Fritz\obj\x86\Debug\Fritz.Cena.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Fritz.exe.config
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Fritz.exe
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Fritz.pdb
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\ArcControl.dll
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\ArcControl.pdb
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\ArcControl.dll.config
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\bin\Debug\Interop.SpeechLib.dll
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.csproj.AssemblyReference.cache
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.csproj.ResolveComReference.cache
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Cena.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.ChatGPT.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.ChatServer.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Random_Messages.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.SequenceRecorder.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Calibration.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Form1.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.InsertSilence.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.KeyboardConfiguration.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.MicrophoneConfiguration.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.OverlayMouthMovements.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Properties.Resources.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Recorder.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.SetMicrophone.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.Simulator.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.InsertTextToSpeech.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.voiceRecognition.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.WaitForRoboRealmDlg.resources
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.csproj.GenerateResource.cache
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.csproj.CoreCompileInputs.cache
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.csproj.Up2Date
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.exe
+C:\Users\keivisson21\Desktop\ROBO\Fritz\RobotMax\obj\x86\Debug\Fritz.pdb

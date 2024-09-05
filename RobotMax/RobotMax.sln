@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotMax", "RobotMax\RobotMax.csproj", "{B44C0525-CA82-4B6C-B849-2F10A8F04582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcControl", "ArcControl\ArcControl.csproj", "{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Debug|x86.ActiveCfg = Debug|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Debug|x86.Build.0 = Debug|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Release|Any CPU.ActiveCfg = Release|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Release|x86.ActiveCfg = Release|x86
+		{B44C0525-CA82-4B6C-B849-2F10A8F04582}.Release|x86.Build.0 = Release|x86
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C53A9385-5F1A-436C-851F-E3DB90AB8CAA}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7D4672-9303-42DB-A98B-93185566F6FC}
+	EndGlobalSection
+EndGlobal
