@@ -31,3 +31,5 @@ O Robô Max traz diversas melhorias significativas em relação ao projeto Fritz
 ---
 
 Essas modificações transformam o Robô Max em um projeto com maior flexibilidade, permitindo controle remoto, integração com IA, automação residencial e maior realismo nas interações. Embora o desenvolvimento continue, o Max já representa um avanço significativo em relação ao projeto original Fritz, com novas possibilidades de uso.
+
+### Projeto Youtube: [Construção Robot Max](https://www.youtube.com/shorts/sZrK8_OPXAA)
